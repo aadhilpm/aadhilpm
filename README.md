@@ -1,6 +1,7 @@
 # 💫 About Me:
 As an ERPNext functional consultant and implementor based in Qatar, I have extensive knowledge in the development of websites and implementing ERPNext solutions
 
+<a href="https://app.daily.dev/aadhilpm"><img src="https://api.daily.dev/devcards/c04d7987bec441c4853a8fceda41a491.png?r=mty" width="400" alt="Aadhil's Dev Card"/></a>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/aadhilp) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aadhilp.m) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aadhilpm) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@aadhilpm) 
@@ -21,5 +22,3 @@ As an ERPNext functional consultant and implementor based in Qatar, I have exten
   ## 💰 You can help me by Donating
   [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/aadhilpm) 
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
