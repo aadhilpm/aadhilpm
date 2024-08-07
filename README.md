@@ -1,6 +1,6 @@
 # 💫 About Me:
 As an ERPNext functional consultant and implementor based in Qatar, I have extensive knowledge in the development of websites and implementing ERPNext solutions
-[My Website](https://aadhilpm.com/) | [discuss.frappe.io](https://discuss.frappe.io/u/aadhil_p_m/)
+[My Website](https://aadhilpm.com/) | [discuss.frappe.io](https://discuss.frappe.io/u/aadhil_p_m/) [Company Website](https://badeeltechnology.com)
 
 
 ## 🌐 Socials:
